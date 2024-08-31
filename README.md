@@ -13,7 +13,7 @@ The LH Pet Internal Control System is a web application designed to manage and d
 1. **Clone the repository**:
    ```bash
    git clone git@github.com:MateusjsSilva/mvc-application.git
-   cd mvc-application
+   cd mvc-application/Application.MVC
    ```
 
 2. **Build the project**:
